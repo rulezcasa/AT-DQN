@@ -63,14 +63,15 @@ project_root/
 <img width="478" alt="Screenshot 2025-05-21 at 7 44 14 PM" src="https://github.com/user-attachments/assets/39a5345d-229b-4c68-83f1-34b89331a200" />
 
 
-**Funding:** H. Thangaraj conducted this research at the Council for Scientific and Industrial Research - Fourth Paradigm Institute, Bengaluru, India under the guidance of Nallana Mithun Babu. Additionally, this work was endorsed by Vellore Institute of Technology, Chennai, India with assistance from Dr. Abinaya S.
 
+
+## Appendix
+
+**Funding:** H. Thangaraj conducted this research at the Council for Scientific and Industrial Research - Fourth Paradigm Institute, Bengaluru, India under the guidance of Nallana Mithun Babu. Additionally, this work was endorsed by Vellore Institute of Technology, Chennai, India with assistance from Dr. Abinaya S.
 
 
 **Data Access Statement:** This study involves secondary analyses of existing RL environments, as well as the primary release of novel model architectures proposed by the authors.
 
-
-## Appendix
 
 **Note:** Please, when using any of the resources provided here, remember to cite this repository.
 
